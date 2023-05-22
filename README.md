@@ -19,6 +19,8 @@ Have fun but do not anger Willy, he takes his work REALLY seriously.<br>
 See you on the show!<br>
   </p>
 
+## Article
+<a href="https://orleonedev.notion.site/Mango-Madness-Can-you-make-a-Game-in-just-1-day-89863192756f4b2c945955934f16a039"><img src="https://img.shields.io/badge/Making_A_Game_In_Just_One_Day-FFFFFF?style=for-the-badge&logo=notion&logoColor=black" alt= "Notion Link"/></a> 
 
 ## Gallery
 
