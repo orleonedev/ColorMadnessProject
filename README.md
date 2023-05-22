@@ -9,7 +9,15 @@ an iOS game made with SpriteKit and GameplayKit in a 16 Hours game jam
 <img src="https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white" alt= "Aseprite"/> 
 <img src="https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black" alt= "Sketch"/> 
 </p>
-
+<p>
+Welcome everybody,this is Color Madness your favorite QuizShow!<br>
+Everybody,be ready to clap your hands for our amazing host, Colooooooor Willy!<br>
+Be prepared to push the correct color buttons Color Willy will show you on the screen!<br>
+If you do it correctly you'lle get a big clap from Willy itself!<br>
+If you do it wrong... You'll just lose one of three life you have!<br>
+Have fun but do not anger Willy, he takes his work REALLY seriously.<br>
+See you on the show!<br>
+  </p>
 
 
 ## Gallery
